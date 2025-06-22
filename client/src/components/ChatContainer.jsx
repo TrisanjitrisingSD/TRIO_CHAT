@@ -1,13 +1,3 @@
-// import React from 'react'
-
-// export const ChatContainer = () => {
-//   return (
-//     <div>
-//         <h1> ChatContainer </h1>
-//     </div>
-//   )
-// }
-
 
 
 import React, { useContext, useState } from 'react'
